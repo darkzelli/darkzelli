@@ -1,8 +1,5 @@
 # Hi there! I'm Zachary Hall 
 
-**Computer Science Student | Software Developer | Freelance Graphic Designer**  
-
----
 
 ## 🚀 About Me
 I'm a Computer Science student at Towson University, passionate about software development, web technologies, and creative design.
