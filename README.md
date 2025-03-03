@@ -7,10 +7,6 @@
 ## 🚀 About Me
 I'm a Computer Science student at Towson University, passionate about software development, web technologies, and creative design.
 
-- 🎓 Studying **Computer Science** (Expected Graduation: May 2026)
-- 🎨 Experienced in **freelance graphic design** with tools like Photoshop & Blender
-- 🎮 Passionate about **game streaming & traditional art**
-
 ---
 
 ## 🎨 Creative Side
