@@ -5,7 +5,7 @@
 ---
 
 ## 🚀 About Me
-I'm a Computer Science student at Towson University, passionate about software development, web technologies, and creative design. My journey started with freelance graphic design, and over the years, I’ve expanded my skill set to include software engineering, mobile development, and backend technologies.
+I'm a Computer Science student at Towson University, passionate about software development, web technologies, and creative design.
 
 - 🎓 Studying **Computer Science** (Expected Graduation: May 2026)
 - 🎨 Experienced in **freelance graphic design** with tools like Photoshop & Blender
