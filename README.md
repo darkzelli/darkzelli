@@ -14,6 +14,6 @@ Beyond coding, I have a strong background in **freelance graphic design**. I hav
 ## 📫 Connect with Me
 - 🌐 **Website:** [zacharyhall.dev](http://zacharyhall.dev)
 - 📧 **Email:** zacharyhallellis@gmail.com
-- 🏆 **GitHub:** [ZacharyHall](https://github.com/your-github-username)
+- 🏆 **GitHub:** [ZacharyHall](https://github.com/darkzelli)
 
 Let's collaborate and build something amazing together! 🚀
