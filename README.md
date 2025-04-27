@@ -3,7 +3,10 @@
 - Reading Introduction to Algorithms (TCRC)
 
 ## Projects
-- yearlyapp.com
+- Towson Academic Pathhway
+- Hash Sync
+- [Yearly](https://yearlyapp.com/)
+- [Portfolio Review](https://portfolioreview.me/)
 
 ## Connect with Me
 -  **Website:** [zacharyhall.dev](http://zacharyhall.dev)
