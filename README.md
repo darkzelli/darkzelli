@@ -1,5 +1,3 @@
-# Hi I'm Zachary Hall 
-
 
 ## Currently Working on
 - Reading Introduction to Algorithms (TCRC)
