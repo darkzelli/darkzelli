@@ -11,4 +11,3 @@
 ## Connect with Me
 -  **Website:** [zacharyhall.dev](http://zacharyhall.dev)
 -  **Email:** zacharyhallellis@gmail.com
--  **GitHub:** [ZacharyHall](https://github.com/darkzelli)
